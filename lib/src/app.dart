@@ -180,7 +180,7 @@ class _LoginState extends State<Login> {
                 }
               },
               child: const Text(
-                'Iniciar sesión',
+                'Registrate Ahora',
                 style: TextStyle(color: Colors.white),
               ),
               style: ElevatedButton.styleFrom(
